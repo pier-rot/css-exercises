@@ -1,0 +1,21 @@
+* {
+    color: white;
+}
+
+div {
+    background-color: red;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+p {
+    background-color: green;
+}
+
+button {
+    background-color: orange;
+    color: black;
+    border-color: lightgray;
+}
